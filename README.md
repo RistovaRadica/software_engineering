@@ -1,4 +1,4 @@
- RADICA RISTOVA 213247
+ RADICA RISTOVA 
 
 ![Control Flow Graph](https://github.com/RistovaRadica/SILab2.java/assets/127231682/45b2a086-5503-4224-9b63-aca89d3a0a9c)
 ![Control Flow Graph](https://github.com/RistovaRadica/SI_2023_lab2_213247/assets/127231682/ae704ac9-fac0-4fb1-b83a-65f80af8bd98)
